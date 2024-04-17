@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Almoguera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-08T14:55:33.903Z",
+      "notes": "",
+      "position": {
+        "lat": "40.265959515408696",
+        "lng": "-3.1420898437500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Laax",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-04-08T14:55:37.924Z",
+      "notes": "",
+      "position": {
+        "lat": "46.86354510035178",
+        "lng": "9.228515625000002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Fontainebleau",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-08T14:59:27.589Z",
+      "notes": "",
+      "position": {
+        "lat": "48.35832781053741",
+        "lng": "2.5927734375000004"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Logrosan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-08T14:59:59.140Z",
+      "notes": "",
+      "position": {
+        "lat": "39.236091441922596",
+        "lng": "-5.383300781250001"
+      },
+      "id": 4
+    }
+  ]
+}
